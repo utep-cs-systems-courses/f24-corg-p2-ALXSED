@@ -6,7 +6,7 @@
 
 int state = 0;
 
-
+//My name is Alejandro Sedeno-Gonzalez i thought i would put that here since my name on github is not my name <3
 int main(void){
   
   configureClocks();
